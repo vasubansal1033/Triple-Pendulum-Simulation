@@ -13,3 +13,6 @@ Triple_Pendulum_Locus.mp4 demonstrates the release of pendulum horizontally, wit
 We have also demonstrated the Butterfly Effect (read more at https://en.wikipedia.org/wiki/Butterfly_effect). The video was created by composition of three separate videos. Then a free software 'OpenShot' was used to composite them. The pendulums had initial angles of (90,90,90), (89.5,89.5,89.5) and (90.5,90.5,90.5). As we can see they show similar motion intially but it changes drastically after sometime. This due to the large dependence on the inital conditions in a chaotic system. Read more at https://simple.wikipedia.org/wiki/Chaos_theory
 
 code.py file is the Python file which contains the code. Please make sure you have installed the required and latest versions of the libraries on your system. The code is written in Python 3. So it may not work for Python 2.x versions.
+
+To watch the simulation, visit https://www.youtube.com/watch?v=Rm95HNgZa4I&feature=share
+Butterfly effect : https://www.youtube.com/watch?v=QvKwH1quPzs&feature=share
